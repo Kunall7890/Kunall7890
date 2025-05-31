@@ -1,39 +1,78 @@
-# 👋 Hello, I'm Kunal Jaiswal!
+# 👋 Hi there, I'm Kunal Jaiswal!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kunall7890&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/Kunall7890?label=Followers&style=social)](https://github.com/Kunall7890)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Jaiswal-blue?logo=linkedin)](https://linkedin.com/in/kunaljaiswal7877)
+[![Gmail](https://img.shields.io/badge/Gmail-jaiswallkunal786@gmail.com-red?logo=gmail)](mailto:jaiswallkunal786@gmail.com)
 
-I'm an AI Engineer, Full Stack Developer, and Competitive Programmer based in Roorkee, India. Passionate about building innovative solutions and contributing to the tech community.
+🎓 **BTech in Computer Science**  
+📍 Roorkee, Uttarakhand, India  
+🛠️ Passionate about **AI**, **Web Development**, and solving real-world problems with **code**.
 
-## 🔭 Currently Working On
+---
 
-- **[Expense_AI](https://github.com/Kunall7890/Expense_AI)**: A TypeScript-based application for expense tracking powered by AI.
-- **[Ai-powered-resume-screener](https://github.com/Kunall7890/Ai-powered-resume-screener)**: Leveraging AI to streamline the resume screening process.
-- **[JAVA-backend-LLM](https://github.com/Kunall7890/JAVA-backend-LLM)**: Developing a robust backend system using Java and Large Language Models.
-- **[Kunal_main_portfolio_](https://github.com/Kunall7890/Kunal_main_portfolio_)**: Showcasing my personal portfolio built with TypeScript.
-- **[reel-time-ticketing-hub](https://github.com/Kunall7890/reel-time-ticketing-hub)**: A real-time ticketing system for events and shows.
+## 🧠 Tech Stack
 
-## 💻 Tech Stack
+**Languages:** Python | Java | C++ | JavaScript  
+**Frameworks/Libraries:** Next.js | React.js | Node.js | Express.js | Tailwind CSS  
+**Databases:** MongoDB | MySQL | PostgreSQL  
+**Tools:** Git | GitHub | Docker | AWS | Microsoft Azure
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+---
 
-## 📈 GitHub Stats
+## 🚀 Projects
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunall7890&show_icons=true&theme=radical)
+### 🔹 AI-Powered Chatbot with Sentiment Analysis
+`Python · Flask · TensorFlow · React.js · MongoDB`
+- Built an intelligent chatbot using NLP and sentiment analysis for personalized user interactions.
+- Integrated with full-stack architecture and JWT-secured sessions.
 
-![Kunal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunall7890&theme=radical)
+### 🔹 Smart Expense Tracker with AI Insights
+`Next.js · React.js · Python · PostgreSQL · TailwindCSS`
+- Built a scalable tracker with AI-powered insights and elegant charts.
+- Optimized PostgreSQL queries for better speed and performance.
 
-## 📬 Let's Connect
+### 🔹 Automated Resume Screening Tool (ATS)
+`Python · FastAPI · MongoDB · React.js`
+- Developed an NLP-based system to rank resumes based on job descriptions.
+- Enabled efficient resume parsing and visualization.
 
-- [LinkedIn](https://www.linkedin.com/in/kunaljaiswal7877)
-- [LeetCode](https://leetcode.com/u/Kunal7895/)
-- [Personal Portfolio](https://kunal-main-portfolio.vercel.app/)
+---
 
-Feel free to reach out for collaborations, open-source contributions, or just a tech chat!
+## 💼 Experience
+
+**NEXZEM Technologies – Web Development Intern**  
+*Sept 2023 – Nov 2023*
+- Improved performance of a full-stack app by 20%.
+- Enhanced backend API response by 15% through refactoring.
+- Implemented CI/CD pipelines using GitHub and Jenkins.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner, Cisco Club Hackathon: Built a real-time security alert system (cut response time by 40%).
+- 💻 250+ LeetCode problems solved: Strengthened DSA and logic-building.
+- 💼 Freelance E-commerce Website: Boosted a local business’s sales by 35%.
+- 🔧 Open Source Contributor: Optimized DB queries, improving efficiency by 20%.
+- ✍️ Published 5+ blogs on React & AI: [Medium](#)
+- ☁️ AWS Cloud Practitioner Certified.
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Profile metrics and streaks -->
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunall7890&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunall7890&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kunall7890&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Connect!
+
+- 📫 Email: [jaiswallkunal786@gmail.com](mailto:jaiswallkunal786@gmail.com)
+- 🌐 Portfolio: [kunall7890.github.io](https://kunall7890.github.io/E--commerce-website-Kickstart/)
+- 🔗 LinkedIn: [kunaljaiswal7877](https://linkedin.com/in/kunaljaiswal7877)
+
+> *"Code with curiosity, deploy with confidence!"*
 
