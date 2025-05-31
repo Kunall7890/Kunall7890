@@ -59,14 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Profile metrics and streaks -->
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunall7890&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunall7890&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Kunall7890&theme=tokyonight&hide_border=true)
-
----
 
 ## 🤝 Let's Connect!
 
