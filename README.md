@@ -1,70 +1,117 @@
-# 👋 Hi there, I'm Kunal Jaiswal!
+# 👋 Hi there, I'm **Kunal Jaiswal**
 
-[![GitHub followers](https://img.shields.io/github/followers/Kunall7890?label=Followers&style=social)](https://github.com/Kunall7890)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Jaiswal-blue?logo=linkedin)](https://linkedin.com/in/kunaljaiswal7877)
+[![GitHub followers](https://img.shields.io/github/followers/Kunall7890?label=Followers&style=social)](https://github.com/Kunall7890)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Jaiswal-blue?logo=linkedin)](https://linkedin.com/in/kunaljaiswal7877)  
 [![Gmail](https://img.shields.io/badge/Gmail-jaiswallkunal786@gmail.com-red?logo=gmail)](mailto:jaiswallkunal786@gmail.com)
 
-🎓 **BTech in Computer Science**  
-📍 Roorkee, Uttarakhand, India  
-🛠️ Passionate about **AI**, **Web Development**, and solving real-world problems with **code**.
+🎓 **B.Tech in Computer Science — Graphic Era Hill University**  
+📍 **Roorkee, Uttarakhand, India**  
+💻 **React Developer | Full-Stack Developer | AI Integrations**  
+⚡ Passionate about building **scalable applications, real-time collaboration tools, and AI-driven solutions**.
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages:** Python | Java | C++ | JavaScript  
-**Frameworks/Libraries:** Next.js | React.js | Node.js | Express.js | Tailwind CSS  
-**Databases:** MongoDB | MySQL | PostgreSQL  
-**Tools:** Git | GitHub | Docker | AWS | Microsoft Azure
+### **Languages**
+JavaScript | TypeScript | Python | HTML/CSS | SQL
+
+### **Frontend**
+React.js | Next.js | Tailwind CSS | GSAP | Fabric.js | Responsive Design
+
+### **Backend**
+Node.js | Express.js | Flask | FastAPI | REST APIs
+
+### **Databases**
+MongoDB | PostgreSQL | Cloud Storage (Puter.js)
+
+### **DevOps & Tools**
+Git | GitHub | Docker | Jenkins | Vercel | CI/CD | Agile Workflow
+
+### **AI / Machine Learning**
+TensorFlow | NLP | LLM Integrations | AI Automation
+
+### **Specialized**
+Real-time Collaboration (Liveblocks) | WebSockets | PDF Generation | Performance Optimization
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 AI-Powered Chatbot with Sentiment Analysis
-`Python · Flask · TensorFlow · React.js · MongoDB`
-- Built an intelligent chatbot using NLP and sentiment analysis for personalized user interactions.
-- Integrated with full-stack architecture and JWT-secured sessions.
+### 🔹 **Resumind — AI Resume Analyzer**  
+**React · TypeScript · Tailwind · Puter.js · Vite**  
+👉 **Live Demo:** https://resumind-ai-resume-analyzer-one.vercel.app/  
+👉 **GitHub Repo:** https://github.com/Kunall7890/Resumind_AI_Resume_Analyzer
 
-### 🔹 Smart Expense Tracker with AI Insights
-`Next.js · React.js · Python · PostgreSQL · TailwindCSS`
-- Built a scalable tracker with AI-powered insights and elegant charts.
-- Optimized PostgreSQL queries for better speed and performance.
+- AI-powered ATS resume analyzer with **zero backend** (browser-only).  
+- AI-based **resume scoring, keyword suggestions**, job match analysis.  
+- Browser authentication + cloud storage using **Puter.js**.  
+- Fully responsive UI with dark mode & score visualizations.  
+- High-performance Vercel deployment.
 
-### 🔹 Automated Resume Screening Tool (ATS)
-`Python · FastAPI · MongoDB · React.js`
-- Developed an NLP-based system to rank resumes based on job descriptions.
-- Enabled efficient resume parsing and visualization.
+---
+
+### 🔹 **Figma Clone — Real-Time Collaborative Design Tool**  
+**Next.js · React · TypeScript · Fabric.js · Liveblocks**  
+👉 **Live Demo:** *Coming Soon*  
+👉 **GitHub Repo:** *Coming Soon*
+
+- Real-time collaborative design canvas with **live cursors** and **presence**.  
+- Tools: shapes, drawing, text editing, layers, undo/redo, shortcuts.  
+- **Liveblocks** integration for multiplayer syncing & real-time comments.  
+- PDF/image export and tablet-friendly UI.  
+- Fabric.js-powered canvas manipulation.
+
+---
+
+### 🔹 **GSAP Cocktail Website**  
+**React · GSAP · Tailwind · Vite**  
+👉 **Live Demo:** *Coming Soon*  
+👉 **GitHub Repo:** *Coming Soon*
+
+- Animation-heavy landing page with **GSAP ScrollTrigger**.  
+- Parallax effects, synced videos, split-text animations & carousels.  
+- Optimized for smooth, responsive interactions.
 
 ---
 
 ## 💼 Experience
 
-**NEXZEM Technologies – Web Development Intern**  
-*Sept 2023 – Nov 2023*
-- Improved performance of a full-stack app by 20%.
-- Enhanced backend API response by 15% through refactoring.
-- Implemented CI/CD pipelines using GitHub and Jenkins.
+### **React Developer — NEXEM Technologies**  
+📅 *Feb 2025 – Dec 2025* | Remote  
+- Improved website performance by **20%** through optimized backend logic.  
+- Enhanced operational efficiency by **15%** with React & Node.js module redesign.  
+- Built automated CI/CD workflows using **GitHub + Jenkins** (25% faster releases).  
+- Delivered scalable web solutions for growing customer demand.  
+- Improved code quality and user experience.
+
+---
+
+### **Freelance Web Developer — Vardhaman Sports**  
+📅 *July 2025 – Aug 2025* | Roorkee  
+- Built a custom **billing/invoice generator** web app with PDF export.  
+- Designed a fully responsive UI for desktop & mobile.  
+- Delivered tailored features based on client requirements.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Winner, Cisco Club Hackathon: Built a real-time security alert system (cut response time by 40%).
-- 💻 250+ LeetCode problems solved: Strengthened DSA and logic-building.
-- 💼 Freelance E-commerce Website: Boosted a local business’s sales by 35%.
-- 🔧 Open Source Contributor: Optimized DB queries, improving efficiency by 20%.
-- ✍️ Published 5+ blogs on React & AI: [Medium](#)
-- ☁️ AWS Cloud Practitioner Certified.
+- 🥇 **Winner — Cisco Club Hackathon:** built a real-time security alert system (40% faster detection).  
+- 💻 **Solved 250+ LeetCode problems** focusing on DSA fundamentals.  
+- 🛒 **Freelance E-commerce Developer:** boosted client sales by 35%.  
+- 🔧 **Open Source Contributor:** optimized DB queries improving performance by ~20%.  
+- ✍️ Published **blogs on React & AI** on Medium.
 
 ---
 
+## 🌐 Portfolio & Contact
 
-## 🤝 Let's Connect!
+📫 **Email:** jaiswallkunal786@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/kunaljaiswal7877  
+💻 **GitHub:** https://github.com/Kunall7890  
+🌐 **Portfolio:** https://kunall7890.github.io  
 
-- 📫 Email: [jaiswallkunal786@gmail.com](mailto:jaiswallkunal786@gmail.com)
-- 🌐 Portfolio: [kunall7890.github.io](https://kunall7890.github.io/E--commerce-website-Kickstart/)
-- 🔗 LinkedIn: [kunaljaiswal7877](https://linkedin.com/in/kunaljaiswal7877)
+---
 
-> *"Code with curiosity, deploy with confidence!"*
-
+> _“Code with curiosity, deploy with confidence!”_  
