@@ -1,117 +1,145 @@
-# 👋 Hi there, I'm **Kunal Jaiswal**
+# 👋 Hi, I'm **Kunal Jaiswal**
 
-[![GitHub followers](https://img.shields.io/github/followers/Kunall7890?label=Followers&style=social)](https://github.com/Kunall7890)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Jaiswal-blue?logo=linkedin)](https://linkedin.com/in/kunaljaiswal7877)  
-[![Gmail](https://img.shields.io/badge/Gmail-jaiswallkunal786@gmail.com-red?logo=gmail)](mailto:jaiswallkunal786@gmail.com)
+🎓 B.Tech Computer Science @ Graphic Era Hill University
+📍 Roorkee, Uttarakhand, India
+💻 Full-Stack Developer | React Specialist | AI Integration Engineer
 
-🎓 **B.Tech in Computer Science — Graphic Era Hill University**  
-📍 **Roorkee, Uttarakhand, India**  
-💻 **React Developer | Full-Stack Developer | AI Integrations**  
-⚡ Passionate about building **scalable applications, real-time collaboration tools, and AI-driven solutions**.
+---
+
+## 🚀 About Me
+
+I’m a results-driven developer focused on building **scalable, high-performance web applications** and **AI-powered systems**.
+I specialize in crafting **real-time collaborative platforms**, immersive UI/UX experiences, and integrating **LLMs into production-ready apps**.
+
+* 🔭 Currently building: **AI-powered & real-time applications**
+* ⚡ Strong focus on: **Performance, scalability, and user experience**
+* 🎯 Goal: Become a **top-tier AI + Full Stack Engineer**
 
 ---
 
 ## 🧠 Tech Stack
 
-### **Languages**
-JavaScript | TypeScript | Python | HTML/CSS | SQL
+### 💻 Languages
 
-### **Frontend**
-React.js | Next.js | Tailwind CSS | GSAP | Fabric.js | Responsive Design
+`JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`
 
-### **Backend**
-Node.js | Express.js | Flask | FastAPI | REST APIs
+### 🎨 Frontend
 
-### **Databases**
-MongoDB | PostgreSQL | Cloud Storage (Puter.js)
+`React.js` `Next.js` `Tailwind CSS` `GSAP` `Fabric.js`
+`Responsive Design` `Performance Optimization`
 
-### **DevOps & Tools**
-Git | GitHub | Docker | Jenkins | Vercel | CI/CD | Agile Workflow
+### ⚙️ Backend
 
-### **AI / Machine Learning**
-TensorFlow | NLP | LLM Integrations | AI Automation
+`Node.js` `Express.js` `FastAPI` `Flask` `REST APIs`
 
-### **Specialized**
-Real-time Collaboration (Liveblocks) | WebSockets | PDF Generation | Performance Optimization
+### 🗄️ Databases
 
----
+`MongoDB` `PostgreSQL` `Cloud Storage (Puter.js)`
 
-## 🚀 Featured Projects
+### 🚀 DevOps & Tools
 
-### 🔹 **Resumind — AI Resume Analyzer**  
-**React · TypeScript · Tailwind · Puter.js · Vite**  
-👉 **Live Demo:** https://resumind-ai-resume-analyzer-one.vercel.app/  
-👉 **GitHub Repo:** https://github.com/Kunall7890/Resumind_AI_Resume_Analyzer
+`Git` `GitHub` `Docker` `Jenkins` `CI/CD` `Vercel` `Agile`
 
-- AI-powered ATS resume analyzer with **zero backend** (browser-only).  
-- AI-based **resume scoring, keyword suggestions**, job match analysis.  
-- Browser authentication + cloud storage using **Puter.js**.  
-- Fully responsive UI with dark mode & score visualizations.  
-- High-performance Vercel deployment.
+### 🤖 AI / ML
+
+`TensorFlow` `NLP` `LLM Integrations` `AI Automation`
+
+### 🔥 Specialized Skills
+
+* Real-time apps (**WebSockets, Liveblocks**)
+* Collaborative tools (Figma-style apps)
+* PDF generation & data processing
+* High-performance frontend systems
 
 ---
 
-### 🔹 **Figma Clone — Real-Time Collaborative Design Tool**  
-**Next.js · React · TypeScript · Fabric.js · Liveblocks**  
-👉 **Live Demo:** *Coming Soon*  
-👉 **GitHub Repo:** *Coming Soon*
+## 🌟 Featured Projects
 
-- Real-time collaborative design canvas with **live cursors** and **presence**.  
-- Tools: shapes, drawing, text editing, layers, undo/redo, shortcuts.  
-- **Liveblocks** integration for multiplayer syncing & real-time comments.  
-- PDF/image export and tablet-friendly UI.  
-- Fabric.js-powered canvas manipulation.
+### 🔹 Resumind — AI Resume Analyzer
+
+🔗 https://resumind-ai-resume-analyzer-one.vercel.app/
+💻 https://github.com/Kunall7890/Resumind_AI_Resume_Analyzer
+
+* AI-powered ATS resume scoring & keyword optimization
+* Fully browser-based (**zero backend architecture**)
+* Smart job match analysis using AI
+* Cloud storage + auth via Puter.js
+* Optimized UI with dark mode & fast load times
 
 ---
 
-### 🔹 **GSAP Cocktail Website**  
-**React · GSAP · Tailwind · Vite**  
-👉 **Live Demo:** *Coming Soon*  
-👉 **GitHub Repo:** *Coming Soon*
+### 🔹 Figma Clone — Real-Time Collaboration Tool
 
-- Animation-heavy landing page with **GSAP ScrollTrigger**.  
-- Parallax effects, synced videos, split-text animations & carousels.  
-- Optimized for smooth, responsive interactions.
+🚧 Coming Soon
+
+* Multiplayer design canvas with live cursors
+* Drawing tools, layers, undo/redo system
+* Liveblocks integration for real-time sync
+* Export to PDF/images
+* Built with Fabric.js for advanced rendering
+
+---
+
+### 🔹 GSAP Animated Website
+
+🚧 Coming Soon
+
+* Advanced animations using GSAP ScrollTrigger
+* Cinematic UI with parallax & motion effects
+* Optimized for smooth performance
 
 ---
 
 ## 💼 Experience
 
-### **React Developer — NEXEM Technologies**  
-📅 *Feb 2025 – Dec 2025* | Remote  
-- Improved website performance by **20%** through optimized backend logic.  
-- Enhanced operational efficiency by **15%** with React & Node.js module redesign.  
-- Built automated CI/CD workflows using **GitHub + Jenkins** (25% faster releases).  
-- Delivered scalable web solutions for growing customer demand.  
-- Improved code quality and user experience.
+### 💻 React Developer — NEXEM Technologies
+
+📅 Feb 2025 – Dec 2025 | Remote
+
+* ⚡ Improved performance by **20%** via backend optimization
+* 🚀 Increased efficiency by **15%** with module redesign
+* 🔄 Built CI/CD pipelines → **25% faster deployments**
+* 📈 Delivered scalable solutions for growing users
 
 ---
 
-### **Freelance Web Developer — Vardhaman Sports**  
-📅 *July 2025 – Aug 2025* | Roorkee  
-- Built a custom **billing/invoice generator** web app with PDF export.  
-- Designed a fully responsive UI for desktop & mobile.  
-- Delivered tailored features based on client requirements.
+### 🌐 Freelance Developer — Vardhaman Sports
+
+📅 July 2025 – Aug 2025
+
+* Built custom billing & invoice generator
+* Implemented PDF export functionality
+* Delivered responsive, production-ready UI
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Winner — Cisco Club Hackathon:** built a real-time security alert system (40% faster detection).  
-- 💻 **Solved 250+ LeetCode problems** focusing on DSA fundamentals.  
-- 🛒 **Freelance E-commerce Developer:** boosted client sales by 35%.  
-- 🔧 **Open Source Contributor:** optimized DB queries improving performance by ~20%.  
-- ✍️ Published **blogs on React & AI** on Medium.
+* 🥇 Winner — Cisco Club Hackathon
+* 💻 Solved **250+ DSA problems (LeetCode)**
+* 📈 Boosted client sales by **35% (E-commerce project)**
+* 🔧 Open-source contributor (performance optimization)
+* ✍️ Technical blogging on React & AI
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🌐 Portfolio & Links
 
-📫 **Email:** jaiswallkunal786@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/kunaljaiswal7877  
-💻 **GitHub:** https://github.com/Kunall7890  
-🌐 **Portfolio:** https://kunall7890.github.io  
+🌍 **Portfolio:** https://kunal-portfolio-ahjx.vercel.app/
+💻 **GitHub:** https://github.com/Kunall7890
+💼 **LinkedIn:** https://linkedin.com/in/kunaljaiswal7877
+📫 **Email:** [jaiswallkunal786@gmail.com](mailto:jaiswallkunal786@gmail.com)
 
 ---
 
-> _“Code with curiosity, deploy with confidence!”_  
+## 📊 GitHub Stats
+
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunall7890\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunall7890\&layout=compact\&theme=radical)
+
+---
+
+## 💡 Quote
+
+> *“Code with curiosity. Build with purpose. Ship with confidence.”*
