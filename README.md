@@ -6,6 +6,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="./Grey%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner.png" alt="Kunal LinkedIn Banner" />
+</div>
+
+<br/>
+
 ## 👨🏻‍💻 About Me:
 
 - 🙋‍♂️ All about me is at **[My Portfolio](https://kunal-portfolio-ahjx.vercel.app/)**
