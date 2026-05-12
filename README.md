@@ -14,6 +14,10 @@
 
 ## 👨🏻‍💻 About Me:
 
+<table>
+<tr>
+<td width="60%">
+
 - 🙋‍♂️ All about me is at **[My Portfolio](https://kunal-portfolio-ahjx.vercel.app/)**
 
 - 🔭 I'm currently working on **[Portfolio](https://github.com/Kunall7890/Kunal_Portfolio)**
@@ -31,6 +35,20 @@
 - 👨‍💻 Life Hack: Build cool stuff 🔥 and write about what you learn 🎉
 
 - ⚡ Fun fact: I think I fix 90% of my bugs just by staring at the screen 🐛
+
+</td>
+
+<td width="40%">
+
+<img align="right" alt="Coding" width="350" src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKV1QiLCJhdWQiOiJyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5NSIsImV4cCI6MTc3ODU3MTg0OSwibmJmIjoxNzc4NTcxNTQ5LCJwYXRoIjoiLzc0MDM4MTkwLzI0MDgxNTA2OC05OTMzNzBhZi0xMWY0LTQ4ZTctOWUwZC1lNWI3OWMyZTc4OTAuZ2lmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDUxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA1MTJUMDczOTA5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODM1MDU3MTljODc1MTgwYzM3OTE2MjNkYTAzODZiM2NjNzkxNGZlNDVjNjEwOTgzMjY0ZDhlMmUxNDU1YTU1ZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGZ2lmIn0.KewxynJ4baY08fzOeDxoPJWzbm9Xy8LuO5GwyePCMIg">
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./1.gif" alt="1.gif" width="180" />
+</p>
 
 ## 🛠️ Technologies and Tools I use:
 
